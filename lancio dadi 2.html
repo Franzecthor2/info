@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Lancio dadi</h1>
+<button onclick="myFunction()">lancio dadi</button>
+<p id="demo"></p>
+<p id="lancii"></p>
+
+
+<h2>stampare n lanci di due dadi con n dato come input</h2>
+
+<button onclick="myFunction2()">Try it</button>
+
+<p id="demo3"></p>
+<p id="lanciii"></p> <p id="lan"></p> <p id="lanc"></p> 
+
+<script>
+function myFunction() {
+  var launch = prompt("Please enter your launch numbers", "7");
+  if (launch != null) {
+    document.getElementById("demo").innerHTML =
+    "Hai fatto " + launch + " lanci";
+  }
+  var i;
+  var l=[0,0,0,0,0,0,];
+  var text="";
+  for (i=0; i<launch; i++ ){
+  l[i]=Math.floor(Math.random() * 6);
+  text+= l[i]+ "<br> ";
+  }
+  document.getElementById("lancii").innerHTML = text;
+}
+</script>
+
+
+<script>
+function myFunction2() {
+  var launch = prompt("Please enter your launch numbers", "7");
+  if (launch != null) {
+    document.getElementById("demo3").innerHTML =
+    "Hai fatto " + launch + " lanci";
+  }
+  var i;
+  var l=[0,0,0,0,0,0,];
+  var text="";
+  for (i=0; i<launch; i++ ){
+  l[i]=Math.floor(Math.random() * 6);
+  text+= l[i]+ "<br> ";
+  }
+  document.getElementById("lanciii").innerHTML = text;
+  
+  document.getElementById("lan").innerHTML = "dado 2";
+  var k;
+  var ll=[0,0,0,0,0,0,];
+  var text="";
+  for (k=0; k<launch; k++ ){
+  ll[k]=Math.floor(Math.random() * 6);
+  text+= ll[k]+ "<br> ";
+  }
+  document.getElementById("lanc").innerHTML = text;
+}
+</script>
+</body>
+</html>

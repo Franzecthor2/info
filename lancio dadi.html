@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/palladino.css">
+   
+    <title>Lancio Di un dado</title>
+   
+</head>
+<body>
+   
+    
+  <button class="button" onclick="lanciodadi(2)"> lancia i dadi</button>
+<p id="dado1"></p>
+
+<p id="dado2"></p>
+
+<p>Numero casuale dado1:</p>
+<p class="rosso" id="out1"></p>
+
+<p>numero casuale dado1 *10:</p>
+<p class="rosso" id="out2"></p>
+
+<p>Prendo la parte intera dado1</p>
+<p class="rosso" id="out3"></p>
+
+
+<p>Numero casuale dado2:</p>
+<p class="verde" id="out4"></p>
+
+<p>numero casuale dado2 *10:</p>
+<p class="verde" id="out5"></p>
+
+<p>Prendo la parte intera dado2</p>
+<p class="verde" id="out6"></p>
+
+
+
+
+
+<script>
+
+     function lanciodadi(){
+      let casuale=0;
+      let dado=0;
+      let parteintera=0;
+      casuale=Math.random();
+     
+
+    dado=casuale*6;
+    parteintera=Math.round(dado)+1;
+
+     //compreso tra 0 ed 1  0 è incluso 1 ' escluso'
+     document.getElementById("out1").innerHTML=casuale;
+     document.getElementById("out2").innerHTML=dado;
+     document.getElementById("out3").innerHTML=parteintera;
+
+ 
+     }
+     
+     
+     function lanciodadi(){
+      let casuale=0;
+      let dado2=0;
+      let parteintera=0;
+      casuale=Math.random();
+     
+
+    dado2=casuale*6;
+    parteintera=Math.round(dado2)+1;
+
+     //compreso tra 0 ed 1  0 è incluso 1 ' escluso'
+     document.getElementById("out4").innerHTML=casuale;
+     document.getElementById("out5").innerHTML=dado;
+     document.getElementById("out6").innerHTML=parteintera;
+
+     }
+     
+</script>
+
+
+
+</body>
+</html>
