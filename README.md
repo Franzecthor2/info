@@ -19,6 +19,8 @@
     <a href="fattorizzazione.html"> fattorizzazione</a>
 </br>
    <a href="numeri 10 e multipli.html"> multipli di 10</a>
+</br> 
+    <a href="kcal.html"> kcal counter</a>
 </br>
 
 </head>
