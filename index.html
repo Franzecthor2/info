@@ -24,7 +24,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     </div>
           <div class="card" style="width: 18rem;">
-           <img src="./HTML.png" class="card-img-top" alt="...">
+           <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Impara html!</h5>
               <p class="card-text">Qui troverai parallelo e alternata</p>
@@ -35,7 +35,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-           <img src="./HTML.png" class="card-img-top" alt="...">
+           <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Impara html!</h5>
               <p class="card-text">qui troverai un calcolatore per gli ohm</p>
@@ -45,7 +45,7 @@
         </div>
         <div class="col-sm">
           <div class="card my-3" style="width: 18rem;">
-           <img src="./javascript.png" class="card-img-top" alt="..."> 
+           <img src="javascript logo.jpg" class="card-img-top" alt="..."> 
             <div class="card-body">
               <h5 class="card-title">Imapara JS!</h5>
               <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio svolto per impare JS (javascript) che ti permetterà di rendere i siti interattivi!</p>
@@ -53,7 +53,7 @@
             </div>
           </div>
             <div class="card" style="width: 18rem;">
-            <img src="./css.png" class="card-img-top" alt="...">
+            <img src="logo css.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara CSS!</h5>
               <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio svolto per imparare il css che ti servirà per rendere i siti più accattivanti!</p>
@@ -63,7 +63,7 @@
         </div>
         <div class="col-sm">
           <div class="card my-3" style="width: 18rem;">
-            <img src="./java.png" class="card-img-top" alt="...">
+            <img src="logo java.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara java!</h5>
               <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio già svolto che ti faranno imparare java!</p>
@@ -71,7 +71,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="./Bootstrap.png" class="card-img-top" alt="...">
+            <img src="bootstrap.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara Bootstrap!</h5>
               <p class="card-text">Qui troverai un esercizio fatto con bootstrap già svolto che ti permetterà di imparare Bootstrap. Questa pagina è stata creata con Bootstrap!</p>
@@ -81,7 +81,7 @@
         </div>
         <div class="col-sm">
           <div class="card my-3" style="width: 18rem;">
-           <img src="./pc.png" class="card-img-top" alt="...">
+           <img src="sistemi logici.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Conosci i sistemi!</h5>
               <p class="card-text">Qui troverai alcune semplici spiegazioni che ti serviranno a capire come funziano il tuo computer, il pc, e in generale, ogni sistema elettronico!</p>
@@ -89,28 +89,28 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="./react.png" class="card-img-top" alt="...">
+            <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Imapara react!</h5>
+              <h5 class="card-title">Imapara html</h5>
               <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da alcuni semplici esercizi per imparare a usare react, ciò ti consentira di programmare in maniera più semplice e veloce!</p>
               <a href="farrorizzazzione.html" class="btn btn-primary">Inizia già da ora!</a
           </div>
                 <div class="card my-3" style="width: 18rem;">
-            <img src="./HTML.png" class="card-img-top" alt="...">
+            <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara HTML!</h5>
               <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
               <a href="gioco del fire.html" class="btn btn-primary">Inizia già da ora!</a
           </div>
                 <div class="card my-3" style="width: 18rem;">
-            <img src="./HTML.png" class="card-img-top" alt="...">
+            <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara HTML!</h5>
               <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
               <a href="N17.html" class="btn btn-primary">Inizia già da ora!</a
           </div>
                   <div class="card my-3" style="width: 18rem;">
-            <img src="./HTML.png" class="card-img-top" alt="...">
+            <img src="maxresdefault.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Imapara HTML!</h5>
               <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
