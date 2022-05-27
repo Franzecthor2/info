@@ -1,26 +1,130 @@
-<!DOCTYPE html>
-<head>
-    <a href="gioco del fire.html"> gioco del fire</a>
-</br>
-    <a href="lancio dadi 2.html"> lancio dadi</a>
-</br>
-    <a href="four button1.html"> 4 bottoni</a>
-</br>
-    <a href="2 dadi.html"> 2 dadi</a>
-</br>
-    <a href="boostrap.html"> botstrap</a>
-</br>
-    <a href="tra 10000 e 10100 .html"> numeri tra 10000 e 10100</a>
-</br>
-    <a href="legge di ohm.html"> legge di ohm</a>
-</br>
-    <a href="N17.html"> es 17</a>   
-</br>
-    <a href="farrorizzazzione.html"> fattorizzazione</a>
-</br>
-   <a href="numeri 10 e multipli.html"> multipli di 10</a>
-</br> 
-    <a href="kcal.html"> kcal counter</a>
-</br>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-</head>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Esercizi prof.Marco Palladino</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark bg-dark">
+         <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+               
+                  Esercizi Informatica 
+                </a>
+        </nav>
+    <div class="container my-5 text-center">
+        <h1>Esercizi di programmazione!</h1>
+        <p class="lead">scegli il percorso che desideri per avverare il tuo sogno di essere un programmatore!</p>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    </div>
+          <div class="card" style="width: 18rem;">
+           <img src="./HTML.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Impara html!</h5>
+              <p class="card-text">Qui troverai parallelo e alternata</p>
+              <a href="lancio dadi 2.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+         <p></p>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+           <img src="./HTML.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Impara html!</h5>
+              <p class="card-text">qui troverai un calcolatore per gli ohm</p>
+              <a href="four button1.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="card my-3" style="width: 18rem;">
+           <img src="./javascript.png" class="card-img-top" alt="..."> 
+            <div class="card-body">
+              <h5 class="card-title">Imapara JS!</h5>
+              <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio svolto per impare JS (javascript) che ti permetterà di rendere i siti interattivi!</p>
+              <a href="2 dadi.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+            <div class="card" style="width: 18rem;">
+            <img src="./css.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara CSS!</h5>
+              <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio svolto per imparare il css che ti servirà per rendere i siti più accattivanti!</p>
+              <a href="tra 10000 e 10100 .html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="card my-3" style="width: 18rem;">
+            <img src="./java.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara java!</h5>
+              <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da un esercizio già svolto che ti faranno imparare java!</p>
+              <a href="kcal.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <img src="./Bootstrap.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara Bootstrap!</h5>
+              <p class="card-text">Qui troverai un esercizio fatto con bootstrap già svolto che ti permetterà di imparare Bootstrap. Questa pagina è stata creata con Bootstrap!</p>
+              <a href="reazione.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+        </div>
+        </div>
+        <div class="col-sm">
+          <div class="card my-3" style="width: 18rem;">
+           <img src="./pc.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Conosci i sistemi!</h5>
+              <p class="card-text">Qui troverai alcune semplici spiegazioni che ti serviranno a capire come funziano il tuo computer, il pc, e in generale, ogni sistema elettronico!</p>
+              <a href="numeri 10 e multipli.html" class="btn btn-primary">Inizia già da ora!</a>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <img src="./react.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara react!</h5>
+              <p class="card-text">Qui troverai alcune semplici spiegazioni seguite da alcuni semplici esercizi per imparare a usare react, ciò ti consentira di programmare in maniera più semplice e veloce!</p>
+              <a href="farrorizzazzione.html" class="btn btn-primary">Inizia già da ora!</a
+          </div>
+                <div class="card my-3" style="width: 18rem;">
+            <img src="./HTML.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara HTML!</h5>
+              <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
+              <a href="gioco del fire.html" class="btn btn-primary">Inizia già da ora!</a
+          </div>
+                <div class="card my-3" style="width: 18rem;">
+            <img src="./HTML.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara HTML!</h5>
+              <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
+              <a href="N17.html" class="btn btn-primary">Inizia già da ora!</a
+          </div>
+                  <div class="card my-3" style="width: 18rem;">
+            <img src="./HTML.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Imapara HTML!</h5>
+              <p class="card-text">Qui troverai un esercizio sulla creazione di alcuni dadi tramite HTML!</p>
+              <a href="legge di ohm.html" class="btn btn-primary">Inizia già da ora!</a
+          </div>
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    <div class="conteiner text-center my-1">
+    <button type="button" class="btn btn-dark" href="realindex.html">Esercitati subito</button>
+    <button type="button" class="btn btn-dark">Contattaci per avere un supporto</button>
+    </div>
+  </body>                  
+</html>
