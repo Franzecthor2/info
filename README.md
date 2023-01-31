@@ -75,7 +75,7 @@
             <div class="card-body">
               <h5 class="card-title">Imapara Bootstrap!</h5>
               <p class="card-text">Qui troverai un esercizio fatto con bootstrap già svolto che ti permetterà di imparare Bootstrap. Questa pagina è stata creata con Bootstrap!</p>
-              <a href="reazione.html" class="btn btn-primary">Inizia già da ora!</a>
+              <a href="boostrap.html" class="btn btn-primary">Inizia già da ora!</a>
             </div>
         </div>
         </div>
